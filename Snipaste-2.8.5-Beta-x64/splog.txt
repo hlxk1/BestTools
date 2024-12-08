@@ -1,0 +1,46 @@
+[2024-12-08 17:51:54.859] [I] ***************************************************************
+[2024-12-08 17:51:54.859] [I] Snipaste 2.8.5-Beta x64 (Desktop) (Qt 6.2.4)
+[2024-12-08 17:51:54.859] [I] OS: Windows 11 Version 2009 [10.0.22631]
+[2024-12-08 17:51:54.860] [I] Cores: 12
+[2024-12-08 17:51:54.860] [I] Elevated: false
+[2024-12-08 17:51:54.860] [I] Log level: 2
+[2024-12-08 17:51:54.860] [I] Application dir: F:/BestTools/Snipaste-2.8.5-Beta-x64
+[2024-12-08 17:51:54.860] [I] Working dir: F:/BestTools/Snipaste-2.8.5-Beta-x64
+[2024-12-08 17:51:54.860] [I] Config: F:/BestTools/Snipaste-2.8.5-Beta-x64/config.ini
+[2024-12-08 17:51:54.860] [I] Library paths: (F:/BestTools/Snipaste-2.8.5-Beta-x64)
+[2024-12-08 17:51:54.860] [I] Screen scale: 1.25
+[2024-12-08 17:51:54.860] [I] Retina factor: 1
+[2024-12-08 17:51:54.860] [I] Screens: 1
+[2024-12-08 17:51:54.860] [I]     QRect(0, 0, 1920 x 1080), DPI = 120 , DPR = 1
+[2024-12-08 17:51:54.868] [I] Desktops: -1
+[2024-12-08 17:51:54.868] [I] Compatability layer: DetectorsAppHealth
+[2024-12-08 17:51:54.868] [I] About to import settings from: F:/BestTools/Snipaste-2.8.5-Beta-x64/config.ini
+[2024-12-08 17:51:54.872] [I] Settings imported
+[2024-12-08 17:51:54.880] [I] Breakpad initialized
+[2024-12-08 17:51:54.900] [I] OpenGL acceleration: false
+[2024-12-08 17:51:54.901] [I] Process priority: 1
+[2024-12-08 17:51:54.901] [I] Initializing Snipaste...
+[2024-12-08 17:51:55.239] [I] Prefetch...
+[2024-12-08 17:51:55.246] [I] Preloaded 28 files: 6 ms
+[2024-12-08 17:51:55.260] [I] Load default ssl configuration: 20 ms
+[2024-12-08 17:51:55.277] [I] About to apply settings...
+[2024-12-08 17:51:55.294] [I] Settings applied
+[2024-12-08 17:51:55.300] [I] Log level set to: 2
+[2024-12-08 17:51:55.328] [I] History dir: F:/BestTools/Snipaste-2.8.5-Beta-x64/history
+[2024-12-08 17:51:55.328] [W] Failed to open history file "F:/BestTools/Snipaste-2.8.5-Beta-x64/history/.sp0" for reading
+[2024-12-08 17:51:55.328] [I] Add group
+[2024-12-08 17:51:55.343] [I] Request to switch to group 0
+[2024-12-08 17:51:55.381] [I] About to restore pasters...
+[2024-12-08 17:51:55.381] [I] Group 0 [F7MQB4]: "Default"
+[2024-12-08 17:51:55.381] [I] Record version: 195
+[2024-12-08 17:51:55.381] [I] To restore: 0
+[2024-12-08 17:51:55.381] [I] Pasters touched
+[2024-12-08 17:51:55.381] [I] All pasters activated: true
+[2024-12-08 17:51:55.389] [I] Unref images: 0 (0 removed)
+[2024-12-08 17:51:55.389] [I] Unref dirs: 0 (0 removed)
+[2024-12-08 17:51:55.389] [I] Empty history info files: 0 (0 removed)
+[2024-12-08 17:51:55.389] [I] Pasters restored
+[2024-12-08 17:51:55.390] [I] Launch time: 530 ms
+[2024-12-08 17:52:02.782] [I] Second instance: 1
+[2024-12-08 17:52:55.710] [I] Silent feed checking finished
+[2024-12-08 17:52:55.710] [I] New version available: 2.10.3
